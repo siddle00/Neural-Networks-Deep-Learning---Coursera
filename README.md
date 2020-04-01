@@ -1,11 +1,12 @@
 # Neural-Networks-Deep-Learning---Coursera
 
-Alt- Deep Learning Course - Coursera 
+Deep Learning Course - Coursera 
 ====== 
 
 Course 1: Neural Networks and Deep Learning 
+-
 
-The following programming modules of the each week are attached. 
+The following programming modules of each week are attached below. Kindly note that, the files are *reference purposes only*. 
 
 
 
