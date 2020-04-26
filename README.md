@@ -28,7 +28,8 @@ Course 2: Improviing Deep Neural Networks : Hyperparameter tuning, Regularizatio
 
 Course 4: Convolutional Neural Networks
 -
-* Week 1 (Part 1) : 
+* Week 1 (Part 1 ) : Convolutional Model : step by step
+* Week 1 (Part 2 ) : Convolutional Model : application 
 
 
 
