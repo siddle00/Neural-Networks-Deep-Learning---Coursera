@@ -23,6 +23,12 @@ Course 2: Improviing Deep Neural Networks : Hyperparameter tuning, Regularizatio
 * Week 1 (Part 1 ) : Intitialization
 * Week 1 (Part 2 ) : Regularization
 * Week 1 (Part 3 ) : Gradient Checking 
+* Week 2           : Optimization 
+* Week 3           : Tensorflow 
+
+Course 4: Convolutional Neural Networks
+-
+* Week 1 (Part 1) : 
 
 
 
