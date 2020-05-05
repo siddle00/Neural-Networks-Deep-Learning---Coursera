@@ -29,7 +29,11 @@ Course 2: Improviing Deep Neural Networks : Hyperparameter tuning, Regularizatio
 Course 4: Convolutional Neural Networks
 -
 * Week 1 (Part 1 ) : Convolutional Model : step by step
-* Week 1 (Part 2 ) : Convolutional Model : application 
+* Week 1 (Part 2 ) : Convolutional Model : application
+* Week 2           : Residual Networks
+* Week 3           : Autonomous Driving application Care detection 
+* Week 4 (Part 1 ) : Neural Style Transfer 
+* Week 4 (Part 2 ) : Face Recognition
 
 
 
